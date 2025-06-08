@@ -13,12 +13,21 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@clerk/clerk-js": "^5.68.0",
     "@rocicorp/zero": "0.20.2025051600",
+    "@solidjs/router": "^0.15.3",
+    "@tailwindcss/typography": "^0.5.16",
+    "autoprefixer": "^10.4.21",
     "jose": "^5.9.6",
     "js-cookie": "^3.0.5",
+    "postcss": "^8.5.4",
     "postgres": "^3.4.5",
+    "prismjs": "^1.30.0",
     "solid-js": "^1.9.3",
     "sst": "3.9.26",
+    "streaming-markdown": "^0.2.15",
+    "tailwindcss": "^4.1.8",
+    "uploadthing": "^7.7.2",
     "zod": "^3.24.2"
   },
   "devDependencies": {
